@@ -21,6 +21,7 @@ Execute the C Program for the desired output.
 # PROGRAM:
 
 Developed by : Rajalakshmi R
+
 Register Number : 212223110037
 
 ## C program that receives a message from message queue and display them
